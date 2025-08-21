@@ -21,3 +21,7 @@ This project helps users manage their daily tasks with options to add, view, com
 ---
 
 ## 📂 Project Structure  
+📁 ToDo-List-C
+┣ 📜 todo.c # Main program source code
+┣ 📜 tasks.txt # Task storage file (if file handling is enabled)
+┣ 📜 README.md # Documentation
